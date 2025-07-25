@@ -2,7 +2,7 @@
 **Thamaraikannan00011/Thamaraikannan00011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm THAMARAIKANNAN S</h1>
+<h1 align="center">Hi 👋, I'm THAMARAIKANNAN</h1>
 <h3 align="center">A passionate Java Full Stack Developer with DevOps aspirations from Tamil Nadu, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamaraikannan00011&label=Profile%20views&color=0e75b6&style=flat" alt="thamaraikannan00011" /> </p>
