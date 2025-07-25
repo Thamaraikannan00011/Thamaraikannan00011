@@ -2,12 +2,8 @@
 **Thamaraikannan00011/Thamaraikannan00011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm THAMARAIKANNAN</h1>
-<h3 align="center">A passionate Java Full Stack Developer with DevOps aspirations from Tamil Nadu, India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thamaraikannan00011&label=Profile%20views&color=0e75b6&style=flat" alt="thamaraikannan00011" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thamaraikannan00011" alt="thamaraikannan00011" /></a> </p>
+<h1 align="center">Hi 👋, I'm THAMARAIKANNAN S</h1>
+<h3 align="center">A passionate Java Full Stack Developer with DevOps from Tamil Nadu, India</h3>
 
 ## 🎓 About Me
 - **Electronics & Communication Engineering Graduate** from Excel Engineering College (Autonomous), Komarapalayam
@@ -23,15 +19,37 @@
 - **CI/CD Pipeline Implementation**
 - **Cloud Technologies & Deployment**
 
-## 🚀 Current Projects
-- 🚚 **Transport Management System** - Spring Boot application with PostgreSQL
-- 🌾 **Fresh Farm Networking** - Hyperlocal marketplace connecting farmers with consumers
+## 🚀 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/Thamaraikannan00011/Transport-Management">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thamaraikannan00011&repo=Transport-Management&theme=radical" />
+  </a>
+</div>
+
+### 🚚 Transport Management System
+- **Full-stack web application** built with **Spring Boot 3** and **PostgreSQL**
+- Manages vehicles, trips, bookings, routes, passengers, and drivers
+- Implemented **RESTful APIs** with comprehensive **CRUD operations**
+- **API testing** using Postman for all endpoints
+- **Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL
+
+### 🌾 Fresh Farm Networking
+- **Hyperlocal marketplace** connecting farmers directly with consumers
+- Eliminates middlemen and ensures **fair pricing** for sustainable farming
+- Features user registration, product catalog, and order management
+- Promotes **social impact** through technology
+
+## 🎯 Career Goal
+Seeking an entry-level position as a **Java Full Stack Developer with DevOps** knowledge where I can apply my technical skills in backend development, frontend technologies, and DevOps practices to contribute to organizational growth while developing my professional career in modern software development and deployment.
 
 ## 📫 How to reach me
 **Email:** thamaraikannansrinivasan@gmail.com
 
-## 🎯 Career Goal
-Seeking an entry-level position as a **Java Full Stack Developer with DevOps** knowledge where I can apply my technical skills in backend development, frontend technologies, and DevOps practices to contribute to organizational growth while developing my professional career in modern software development and deployment.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thamaraikannan00011&label=Profile%20views&color=0e75b6&style=flat" alt="thamaraikannan00011" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thamaraikannan00011" alt="thamaraikannan00011" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
