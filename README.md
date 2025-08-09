@@ -1,5 +1,6 @@
+<h1>I'm THAMARAIKANNAN</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+THAMARAIKANNAN;Java+Backend+Developer;DevOps+Engineer;Spring+Boot+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;DevOps+Engineer;Spring+Boot+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
